@@ -50,7 +50,7 @@ struct ContentView: View {
             
                 
             }
-            .position(x:200, y:300)
+            
             
         }
     }
